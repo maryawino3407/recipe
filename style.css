@@ -1,0 +1,56 @@
+title{
+    color: aqua;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: linear-gradient(to bottom, #EDE7F6, #FCE4EC);
+
+
+}
+header {
+    background: #1A237E;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    height: 200px;
+}
+nav {
+    display: flex;
+    justify-content: center; /* Center the links */
+    gap: 60px; /* Add space between links */
+}
+nav a {
+    text-decoration: none;
+    color: rgba(255, 0, 179, 0.79);
+    font-weight: bold;
+}
+
+button {
+    background-color: aquamarine;
+    border-radius: 3rem;
+}
+.hero {
+    text-align: center;
+    margin: 20px;
+}
+footer {
+    text-align: center;
+    background: #3373;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.float-left{
+    height: 100px;
+    width: 100px;
+}
+
+
+
